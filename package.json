@@ -4,7 +4,7 @@
   "description": "TODO",
   "author": "Matthew Weidner",
   "license": "Apache-2.0",
-  "main": "build/main/main.js",
+  "main": "build/main/main/main.js",
   "config": {
     "forge": {
       "packagerConfig": {

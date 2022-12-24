@@ -41,5 +41,7 @@ module.exports = {
         argsIgnorePattern: "^_",
       },
     ],
+    // Allow normal string concatenation.
+    "@typescript-eslint/restrict-plus-operands": "off",
   },
 };

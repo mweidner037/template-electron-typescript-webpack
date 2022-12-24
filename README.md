@@ -28,3 +28,4 @@ Production mode:
 - Search for TODO.
 - Write your app in `src/`.
 - Replace this README.
+- Configure Content Security Policy (devtools warning).
